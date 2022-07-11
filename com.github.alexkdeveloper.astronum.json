@@ -30,8 +30,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/alexkdeveloper/astronum.git",
-                    "tag" : "1.0.3",
-                    "commit" : "361b2ac9aa9635f94cd6b60e3cdbfff2c67fd6eb"
+                    "tag" : "1.0.4",
+                    "commit" : "555e55cc099f51b49380bed48f1947f56f4e0478"
                 }
             ]
         }
