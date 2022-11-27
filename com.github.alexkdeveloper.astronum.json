@@ -5,6 +5,7 @@
     "sdk" : "org.gnome.Sdk",
     "command" : "com.github.alexkdeveloper.astronum",
     "finish-args" : [
+        "--device=dri",
         "--share=ipc",
         "--socket=fallback-x11",
         "--socket=wayland"
@@ -30,8 +31,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/alexkdeveloper/astronum.git",
-                    "tag" : "1.0.5",
-                    "commit" : "fc4d02e9b9be78896cd2fa691955d6d7a7a67616"
+                    "tag" : "1.0.6",
+                    "commit" : "f8ac0acafe3c5ba0b251323609bbdf2d92074259"
                 }
             ]
         }
