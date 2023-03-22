@@ -1,7 +1,7 @@
 {
     "app-id" : "com.github.alexkdeveloper.astronum",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "43",
+    "runtime-version" : "44",
     "sdk" : "org.gnome.Sdk",
     "command" : "com.github.alexkdeveloper.astronum",
     "finish-args" : [
@@ -31,8 +31,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/alexkdeveloper/astronum.git",
-                    "tag" : "1.0.7",
-                    "commit" : "8c5fd826e20f0174a1e766f5838b54e756804676"
+                    "tag" : "1.0.8"
                 }
             ]
         }
